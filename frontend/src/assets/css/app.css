@@ -1,0 +1,16 @@
+.skills-wrap{
+    width: 250px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid var(--primary-color);
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+.skills-wrap h3{
+    margin: 10px 0px;
+}
